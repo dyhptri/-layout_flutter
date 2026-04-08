@@ -58,6 +58,7 @@ class MyApp extends StatelessWidget {
         body: Column (
           children: [
             titleSection,
+            buttonSection,
           ],
         )
       ),
